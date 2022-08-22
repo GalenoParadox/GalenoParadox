@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript, HTML5 and CSS3**
 
-- 👯 I’m looking to collaborate on **front-end and back-end projects**
+- 👯 I’m looking to collaborate on **<!-- front-end and  -->back-end projects**
 
 - 📫 How to reach me: **galenoparadox@gmail.com**
 
